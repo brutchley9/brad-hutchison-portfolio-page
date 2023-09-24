@@ -1,12 +1,35 @@
 body {
+    background-color:azure;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 15px;
 }
 
-nav ul li {
-    list-style: none;
+header {
+    background-color:darkslateblue;
 }
 
-footer li {
+nav ul li {
+    text-decoration: none;
     list-style: none;
+    display: inline-flex;
+    width: 33.33%;
+}
+
+a {
+    text-decoration: none;
+}
+
+aside {
+    flex: 30%;
+    flex-wrap: wrap;
+}
+
+section {
+    flex: 60%;
+    flex-wrap: wrap;
+}
+
+footer {
+    list-style-type: none;
+    background-color: darkslateblue;
 }
