@@ -1,6 +1,6 @@
 # Brad Hutchison Portfolio Page
 
-For this challenge, I will be optimizing a webpage for further accessiblity and efficiency. This was accomplished by:
+This application was created in an effort to showcase my projects in web development by creating my own website from scratch, with basic HTML, a CSS stylesheet, and more. This was accomplished by:
 
 <li></li>
 
@@ -12,9 +12,9 @@ Screenshot of webpage:
 
 ---
 
-Follow link ______to access this website!
+Follow link https://brutchley9.github.io/brad-hutchison-portfolio-page/ to access this website!
 
-Follow link ______ to access GitHub repository for this website.
+Follow link https://github.com/brutchley9/brad-hutchison-portfolio-page to access GitHub repository for this website.
 
 Original starter code can be found here:
 
@@ -22,4 +22,8 @@ Original starter code can be found here:
 
 # Resources
 
-https://www.w3schools.com/html/html5_semantic_elements.asp
+<li>https://www.w3schools.com/html/html5_semantic_elements.asp</li>
+
+<li>https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors</li>
+
+<li>https://www.w3schools.com/css/css_navbar.asp</li>
