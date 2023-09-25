@@ -27,3 +27,5 @@ Original starter code can be found here:
 <li>https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors</li>
 
 <li>https://www.w3schools.com/css/css_navbar.asp</li>
+
+<li>https://stackoverflow.com/questions/15413758/float-aside-next-to-a-section-html5>

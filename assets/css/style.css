@@ -2,13 +2,21 @@ body {
     background-color:azure;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 15px;
+
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 header {
     background-color:darkslateblue;
+    padding: 5px;
 }
 
 nav ul li {
+    color: moccasin;
     text-decoration: none;
     list-style: none;
     display: inline-flex;
@@ -16,20 +24,67 @@ nav ul li {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: none color(white)
 }
 
 aside {
-    flex: 30%;
+    background-color: lightslategray;
+    display: inline-block;
+    flex: 1 0 0;
     flex-wrap: wrap;
+    width: 25%;
+    padding: 1%;
+    border-style: solid;
+    border-color: black;
+    margin: 5px;
+}
+
+article {
+    flex: 1 0 0;
+    flex-wrap: wrap;
+    width: 50%;
+    padding: 1%;
+    margin: 5px;
 }
 
 section {
-    flex: 60%;
-    flex-wrap: wrap;
+    background-color: lightslategray;
+    padding: 1%;
+    border-style: solid;
+    border-color: black;
+    margin: 5px;
 }
 
 footer {
+    color: moccasin;
+    padding-top: 1px;
+    padding-left: 15px;
+    padding-bottom: 15px;
     list-style-type: none;
     background-color: darkslateblue;
+}
+
+h1 {
+    color: moccasin;
+    text-shadow: 2px 2px black;
+}
+
+h2 {
+    color: moccasin;
+    text-shadow: 2px 2px black;
+}
+
+h3 {
+    color: moccasin;
+    text-shadow: 2px 2px black;
+}
+
+h4 {
+    color: moccasin;
+    text-shadow: 2px 2px black;
+}
+
+h5 {
+    color: moccasin;
+    text-shadow: 2px 2px black;
 }
