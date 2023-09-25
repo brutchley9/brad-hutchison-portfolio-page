@@ -2,11 +2,11 @@
 
 This application was created in an effort to showcase my projects in web development by creating my own website from scratch, with basic HTML, a CSS stylesheet, and more. This was accomplished by:
 
-<li></li>
+<li>Utilizing attached resource pages, such as W3 Schools and Stack Overflow, to research how to properly organize a webpage</li>
 
-<li></li>
+<li>"Reverse-engineering" code while implementing it (in order to better understand its function between CSS and HTML pages), and...</li>
 
-<li></li>
+<li>Plenty of trial and error</li>
 
 Screenshot of webpage:
 
@@ -14,9 +14,7 @@ Screenshot of webpage:
 
 Follow link https://brutchley9.github.io/brad-hutchison-portfolio-page/ to access this website!
 
-Follow link https://github.com/brutchley9/brad-hutchison-portfolio-page to access GitHub repository for this website.
-
-Original starter code can be found here:
+Follow link https://github.com/brutchley9/brad-hutchison-portfolio-page to access GitHub repository for this website (including code).
 
 ---
 
