@@ -12,7 +12,7 @@ main {
 }
 
 header {
-    background-color:darkslateblue;
+    background-color: rgb(175, 175, 129);
     padding: 5px;
 }
 
@@ -45,6 +45,11 @@ aside {
     margin: 5px;
 }
 
+aside img {
+    height: 170px;
+    width: 600x;
+}
+
 article {
     flex: 1 0 0;
     flex-wrap: wrap;
@@ -67,7 +72,11 @@ footer {
     padding-left: 15px;
     padding-bottom: 15px;
     list-style-type: none;
-    background-color: darkslateblue;
+    background-color: rgb(175, 175, 129)
+}
+
+footer li {
+    color: rgb(115, 38, 186);
 }
 
 h1 {
@@ -94,3 +103,4 @@ h5 {
     color: moccasin;
     text-shadow: 2px 2px black;
 }
+
