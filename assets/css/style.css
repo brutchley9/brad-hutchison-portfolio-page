@@ -46,8 +46,9 @@ aside {
 }
 
 aside img {
-    height: 170px;
-    width: 600x;
+    height: 30%;
+    width: 100%;
+    object-fit: cover;
 }
 
 article {
