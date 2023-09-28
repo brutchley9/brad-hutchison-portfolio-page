@@ -9,7 +9,7 @@ This application was created in an effort to showcase my projects in web develop
 <li>Plenty of trial and error</li>
 
 Screenshot of webpage:
-
+<img src="./assets/images/portfoliopage.png">
 ---
 
 Follow link https://brutchley9.github.io/brad-hutchison-portfolio-page/ to access this website!
