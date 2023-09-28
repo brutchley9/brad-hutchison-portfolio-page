@@ -16,6 +16,8 @@ header {
     padding: 5px;
 }
 
+/* nav links now all functional across the page*/
+
 nav li {
     padding-left: 5px;
     color: moccasin;
@@ -33,7 +35,9 @@ a:hover {
     color: crimson;
 }
 
+/*AboutMe sections stays off to the left while Works section will continue to expand downward as more projects are added*/
 aside {
+    height: fit-content;
     background-color: lightslategray;
     display: inline-block;
     flex: 1 0 0;
@@ -68,10 +72,12 @@ section {
     margin: 5px;
 }
 
+
+/*this image is now clickable and takes user to first module challenge url*/
 .code-refactor img {
     object-fit: contain;
-    height: 100px;
-    width: 200px;
+    height: 20%;
+    width: 50%;
 }
 
 footer {
@@ -112,3 +118,10 @@ h5 {
     text-shadow: 2px 2px black;
 }
 
+
+/* this code is meant to optimize my website for smaller phones */
+@media screen and (max-width: 768px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+}
