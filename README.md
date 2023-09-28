@@ -27,3 +27,5 @@ Follow link https://github.com/brutchley9/brad-hutchison-portfolio-page to acces
 <li>https://www.w3schools.com/css/css_navbar.asp</li>
 
 <li>https://stackoverflow.com/questions/15413758/float-aside-next-to-a-section-html5>
+
+<li>https://developer.mozilla.org/en-US/docs/Web/CSS/fit-content<li>
