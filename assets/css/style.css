@@ -76,8 +76,14 @@ section {
 /*this image is now clickable and takes user to first module challenge url*/
 .code-refactor img {
     object-fit: contain;
-    height: 20%;
+    height: 40%;
     width: 50%;
+}
+
+.superhero-gen img {
+    object-fit: contain;
+    height: 30%;
+    width: 70%;
 }
 
 footer {
